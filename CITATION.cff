@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software or framework in your research, please cite it using the metadata below."
+title: "The Field of Consciousness (FoC) Framework"
+abstract: "A theoretical and computational framework exploring the intersection of quantum gauge fields, phenomenology, and Kerr/AdS cosmology. This repository contains the source code, LaTeX manuscripts, and mathematical models associated with the Field of Consciousness theory."
+authors:
+  - family-names: "Shaffer"
+    given-names: "Brent A."
+    orcid: "" # Optional: Add your ORCID iD if you have one (e.g., https://orcid.org/0000-0000-0000-0000)
+  - family-names: "Larson"
+    given-names: "Samantha"
+    orcid: "" # Optional: Add Samantha's ORCID iD here
+version: 1.0.0
+date-released: 2026-01-22
+license: CC-BY-4.0 # Creative Commons Attribution 4.0 is standard for open science/theory
+repository-code: "https://github.com/vytyls/vytyls_Initiative"
+keywords:
+  - "consciousness"
+  - "quantum-mechanics"
+  - "gauge-theory"
+  - "lattice-gauge-theory"
+  - "phenomenology"
+  - "cosmology"
+  - "theoretical-physics"
+references:
+  - type: article
+    title: "The Field of Consciousness - A Lattice Gauge Model of Emergent Mass and Time"
+    authors:
+      - family-names: "Shaffer"
+        given-names: "Brent A."
+      - family-names: "Larson"
+        given-names: "Samantha"
+    year: 2026
+    month: 1
+    status: preprint
+    # doi: "10.5281/zenodo.XXXXXX" # You can add the Zenodo DOI here once you have it handy
