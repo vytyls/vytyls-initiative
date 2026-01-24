@@ -2,9 +2,8 @@
 title: EFP-01 - Solution Document
 date: 25.08.19
 time: 01:28:48
-author: Lative, ChatGPT
-source: Chat
-dataview: true
+author: Lative
+source: Synthesis
 tags:
   - EFP-01
   - EmotionalSystems
