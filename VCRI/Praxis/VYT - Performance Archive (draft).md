@@ -52,7 +52,7 @@ https://recordbreakerschi.com/2017/10/01/first-in-store-and-opening-sale/?fbclid
 
 052321 — Neobeat (3) Rain Check — Jnana / Vytyls — Lumpen.tv Virtual Show — 9pm
 
-070924 — Integrated Music Group — Luke Mayo / VYTYLS / Grace Wood / Nick Quicktastic / Merrick Brown / XtraSenSory / Kim Rosette — 3128 N. Milwaukee Ave, Chicago, IL — 3:30pm
+060924 — Integrated Music Group — Luke Mayo / VYTYLS / Grace Wood / Nick Quicktastic / Merrick Brown / XtraSenSory / Kim Rosette — 3128 N. Milwaukee Ave, Chicago, IL — 3:30pm
 
 103124 — WZRD Halloween Spooktacular 2024 88.3 FM — 5.30pm
 
