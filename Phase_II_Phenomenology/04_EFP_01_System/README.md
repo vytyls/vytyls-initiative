@@ -16,17 +16,17 @@ This repository contains the engineering specifications, operating procedures, a
 
 This system is designed to be dropped directly into a Personal Knowledge Management (PKM) vault (e.g., Obsidian).
 
-* **`EFP-01 - Emotional Fluid Processor (Hub).md`** The central engineering design brief. Includes:
+* **[EFP-01 - Emotional Fluid Processor (Hub).md](Phase_II_Phenomenology/04_EFP_01_System/02_Research/efp-01-system-hub.md)** The central engineering design brief. Includes:
     * **P&ID Specs:** Plant layout (Heart/Mind/Body reservoirs) and instrumentation tags.
     * **Rheology:** Definitions of the working fluid (yield stress, thixotropy).
     * **Control Logic:** PID loops for Arousal (Pressure) and Expression (Flow).
     
-* **`EFP-01 - Operating Procedure.md`** The standard operating manual (SOP).
+* **[EFP-01 - Operating Procedure.md](Phase_II_Phenomenology/04_EFP_01_System/03_Protocols/efp-01-operating-procedure.md)** The standard operating manual (SOP).
     * Startup and Shutdown sequences.
     * Handling "High Turbulence" (recursive thought loops) and "Cavitation" (panic/shutdown).
     * Maintenance schedules for system hygiene.
 
-* **`EFP-01 - Solution Document.md`** The "Expression Rerouting Subsystem" (ERS) and applied metaphorical mappings.
+* **[EFP-01 - Solution Document.md](Phase_II_Phenomenology/04_EFP_01_System/02_Research/efp-01-solution-document.md)** The "Expression Rerouting Subsystem" (ERS) and applied metaphorical mappings.
     * Details the routing of excess pressure to specific **Expression Ports (XP)**: Speech, Writing, Music, and Movement.
     * Provides debugging steps for specific emotional failure modes.
 

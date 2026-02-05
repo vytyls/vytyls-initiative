@@ -8,15 +8,10 @@ tags:
 ---
 # EFP-01 — Emotional Fluid Processor (Hub)
 
-> A single, linked hub note containing the engineering spec, P&ID tags, the one‑page operating procedure, the extended operating procedure (Rev.2 with ERS), the solution documents (v1 & Rev.2), and the Expression Rerouting Subsystem (ERS) details. Drop this into your vault as the canonical EFP hub.
-
-
----
-
 ## Quick links
-- [[EFP-01 - Operating Procedure]] (separate note recommended)
-- [[EFP-01 - Solution Document]] (separate note recommended)
-- [[EFP-01 PID Diagram]] (image placeholder)
+- [EFP-01 - Operating Procedure](Phase_II_Phenomenology/04_EFP_01_System/03_Protocols/efp-01-operating-procedure.md)
+- [EFP-01 - Solution Document](Phase_II_Phenomenology/04_EFP_01_System/02_Research/efp-01-solution-document.md)
+- [EFP-01 - PID Diagram](Phase_II_Phenomenology/04_EFP_01_System/04_assets/efp-diagram.md)
 
 ---
 
@@ -316,39 +311,4 @@ The ERS emphasizes that expression is not a system failure, but a designed funct
 
 
 ---
-
-# 7. Files, Diagrams, and Assets (placeholders)
-- **P&ID PNG placeholder**: `[[EFP-01 PID Diagram]]` (import `/attachments/EFP-01_PID.png` or create a local image file and link here)
-- **Operating Procedure (MD):** consider making two separate notes for version control and linking back to this hub
-
-
----
-
-# 8. Change Log
-- **v0.1** — initial conceptual sketches and metaphors
-- **v1.0 (2025‑06‑11)** — one‑page operating procedure and engineering spec
-- **v2.0 (2025‑08‑20)** — integrated Expression Rerouting Subsystem (ERS); full OP Rev.2 and Solution Doc Rev.2
-
-
----
-
-# 9. Suggested Obsidian Structure (links)
-- `EFP-01/` (folder)
-  - `EFP-01 — Hub.md` ← this file
-  - `EFP-01 — Operating Procedure.md` ← OP Rev.2
-  - `EFP-01 — Solution Document.md` ← SD Rev.2
-  - `EFP-01 — PID.png` ← schematic image
-  - `EFP-01 — Engineering Spec.md` ← full engineering brief (if you prefer separate)
-
-
----
-
-# 10. Backlinks & Next Steps
-- Backlink to larger frameworks when ready: `[[MLFM]]`, `[[RFN]]`, `[[Containment Models]]`
-- Next expansion ideas: educational modules, self-guided practice flows, interactive simulator (lightweight Re/De tuning), public-facing teaching materials.
-
-
----
-
-*End of hub — drop into Obsidian and split into separate notes as desired. Ping me and I will generate the separate `Operating Procedure.md` and `Solution Document.md` files (or export them directly) if you want.*
 
