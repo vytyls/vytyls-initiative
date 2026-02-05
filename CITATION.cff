@@ -1,35 +1,45 @@
 cff-version: 1.2.0
-message: "If you use this software or framework in your research, please cite it using the metadata below."
-title: "The Field of Consciousness (FoC) Framework"
-abstract: "A theoretical and computational framework exploring the intersection of quantum gauge fields, phenomenology, and Kerr/AdS cosmology. This repository contains the source code, LaTeX manuscripts, and mathematical models associated with the Field of Consciousness theory."
+message: "If you use this framework, software, or notation in your research, please cite it as below."
 authors:
   - family-names: "Shaffer"
     given-names: "Brent A."
-    orcid: "" # Optional: Add your ORCID iD if you have one (e.g., https://orcid.org/0000-0000-0000-0000)
+    alias: "Lative"
+    affiliation: "VYTYLS Consciousness Research Initiative"
   - family-names: "Larson"
-    given-names: "Samantha"
-    orcid: "" # Optional: Add Samantha's ORCID iD here
-version: 1.0.0
-date-released: 2026-01-22
-license: CC-BY-4.0 # Creative Commons Attribution 4.0 is standard for open science/theory
-repository-code: "https://github.com/vytyls/vytyls_Initiative"
+    given-names: "Samantha L."
+    alias: "Syence"
+    affiliation: "VYTYLS Consciousness Research Initiative"
+title: "The VYTYLS Consciousness Research Initiative"
+version: "1.0.0-alpha"
+doi: "10.5281/zenodo.18284657"
+date-released: 2026-01-29
+url: "https://github.com/vytyls/vytyls_Initiative"
 keywords:
   - "consciousness"
-  - "quantum-mechanics"
-  - "gauge-theory"
   - "lattice-gauge-theory"
   - "phenomenology"
-  - "cosmology"
-  - "theoretical-physics"
-references:
-  - type: article
-    title: "The Field of Consciousness - A Lattice Gauge Model of Emergent Mass and Time"
-    authors:
-      - family-names: "Shaffer"
-        given-names: "Brent A."
-      - family-names: "Larson"
-        given-names: "Samantha"
-    year: 2026
-    month: 1
-    status: preprint
-    # doi: "10.5281/zenodo.XXXXXX" # You can add the Zenodo DOI here once you have it handy
+  - "reality-fold-notation"
+  - "modal-layer-field-map"
+  - "emergent-gravity"
+  - "acoustic-ecology"
+abstract: >-
+  The source code and theoretical framework for the VYTYLS Consciousness Research Initiative. 
+  We propose a 'Great Inversion': that consciousness is not an emergent property of matter, 
+  but a fundamental gauge field (The Field of Consciousness) defined on a discrete 
+  isotropic octahedral lattice. This repository contains the physics derivations (Phase I), 
+  phenomenological mapping protocols (Phase II - RFN/MLFM), and the cybernetic performance 
+  systems (Phase V) used to investigate this ontology.
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Shaffer"
+    given-names: "Brent A."
+  - family-names: "Larson"
+    given-names: "Samantha L."
+  title: "The Field of Consciousness: A Lattice Gauge Model of Emergent Mass and Time"
+  year: 2025
+  month: 12
+  doi: "10.5281/zenodo.18284657"
+  publisher: "Zenodo"
+  status: preprint
