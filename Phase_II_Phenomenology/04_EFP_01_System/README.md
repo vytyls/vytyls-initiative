@@ -26,7 +26,7 @@ This system is designed to be dropped directly into a Personal Knowledge Managem
     * Handling "High Turbulence" (recursive thought loops) and "Cavitation" (panic/shutdown).
     * Maintenance schedules for system hygiene.
 
-* **[EFP-01 - Solution Document.md](efp-01-solution-document.md)** The "Expression Rerouting Subsystem" (ERS) and applied metaphorical mappings.
+* **[EFP-01 - Solution Document.md](Phase_II_Phenomenology/04_EFP_01_System/02_Research/efp-01-solution-document.md)** The "Expression Rerouting Subsystem" (ERS) and applied metaphorical mappings.
     * Details the routing of excess pressure to specific **Expression Ports (XP)**: Speech, Writing, Music, and Movement.
     * Provides debugging steps for specific emotional failure modes.
 
