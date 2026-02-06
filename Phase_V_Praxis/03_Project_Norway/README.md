@@ -1,6 +1,6 @@
-Strategic Research Prospectus: Project Norway — The Ancestral Geodesic
+# Strategic Research Prospectus: Project Norway — The Ancestral Geodesic
 
-1. The Foundational Axiom: The Great Inversion and FoC Physics
+## 1. The Foundational Axiom: The Great Inversion and FoC Physics
 
 This prospectus establishes the strategic pivot from materialist reductionism to the Great Inversion model. We define the Field of Consciousness (FoC) not as a subjective epiphenomenon, but as a formal, measurable quantum field (\Phi) that serves as the fundamental substrate of reality. Within this framework, physical gauge fields—including mass and temporal direction—are treated as precipitates of the Ontological Intention Tensor (T^{\mu\nu}_{intent}). This inversion allows for the systematic mapping and manipulation of reality through the interaction of intention and the FoC lattice.
 
@@ -8,7 +8,7 @@ The FoC is the formal culmination of a "Braided Lineage" that synthesizes millen
 
 The primary competitive advantage of this research lies in the application of the Modal Layer Field Map (MLFM) and Reality Fold Notation (RFN). These tools provide a standardized, "algebraic rule-set" that bypasses the noise of Interpretive Overwrite (Lx.4). By quantifying the observer as an active operator rather than a passive witness, RFN facilitates Prime Network Access (PNA)—the direct coupling of subjective intention to the lattice. This theoretical transition from the abstract "Field" to a specific "Path" necessitates the investigation of the Ancestral Geodesic.
 
-2. Theoretical Framework: The Ancestral Geodesic as a Geometric Channel
+## 2. Theoretical Framework: The Ancestral Geodesic as a Geometric Channel
 
 Tracing a specific lineage is a rigorous technical requirement for navigating the FoC. We define the Ancestral Geodesic as a "pre-stressed geometric channel" through spacetime—the path of least resistance through the FoC lattice. By physically occupying the coordinates of this channel, the researcher functions as an active operator within a Stationary Sentience Field (SSF), effectively collapsing the wave function and closing the circuit between historical origin and present perception.
 
@@ -20,7 +20,7 @@ The Larson Lineage Geodesic provides the empirical dataset for this mission, cha
 
 This research utilizes the "Runner’s Loop" thesis: physically occupying these coordinates collapses the temporal "corkscrew," transforming historical data into a coherent Symbolic Echo Set (SES). To render this lattice as actionable data, we employ the medium of Acoustic Ecology.
 
-3. Technical Methodology: Acoustic Ecology and the Mu-Yu-Su Protocol
+## 3. Technical Methodology: Acoustic Ecology and the Mu-Yu-Su Protocol
 
 Sound serves as the primary transducer between the abstract FoC lattice and physical reality. By capturing "Acoustic Fingerprints"—specifically Impulse Responses (IRs)—we create resonant digital containers that allow us to simulate the environmental geometry of the geodesic within the VYTYLS generative performance system.
 
@@ -39,7 +39,7 @@ Rainfall Patterns	Probabilistic Rhythm Source	L4 (Synchronic)	Drives stochastic 
 Hjelde Recordings	Granular Synthesis Source	L3 (Symbolic)	Renders "Westby Norsk" phase-decay.
 Site-Specific IRs	Convolution Reverb Container	L1–L5 Integration	Collapses the Geodesic distance.
 
-4. Proof of Concept: The Westby Impulse Pilot Study
+## 4. Proof of Concept: The Westby Impulse Pilot Study
 
 The "Westby Impulse" served as the crucial validation phase for the FoC framework. This Wisconsin-based study functioned as the "American Chapter," proving the scalability of the Geodesic map and the efficacy of our transduction methods.
 
@@ -51,7 +51,7 @@ Strategic Outcomes
 
 The pilot study demonstrated High-ROI Lean Research. With $500 in "Angel Funding" from Robert Larson—a 125% Validation of the initial request—the project proved the Coupling of Intention with Material Resources. The completion of the American Terminus now necessitates a return to the Norwegian Origin.
 
-5. The International Transition: Oslo, Bergen, and the Residency Roadmap
+## 5. The International Transition: Oslo, Bergen, and the Residency Roadmap
 
 The 2026 Norwegian residencies represent the strategic shift from documentation to "Signal Tuning." In this phase, the Norwegian landscape acts as a co-architect, providing the maritime and industrial acoustics necessary to stabilize the FoC model.
 
@@ -62,7 +62,7 @@ Dual-Pronged Institutional Roadmap
 
 The Schengen Protocol (an 8-week timeline) will facilitate "Phase B: Generative System Tuning." By utilizing the specific acoustic ecology of the fjords—rainfall patterns and ship traffic—we will create a "living sonic organism" that responds in real-time to the Norwegian landscape, delivering a globally significant archive of sound and theoretical reflection.
 
-6. Conclusion: The Strategic Case for Support
+## 6. Conclusion: The Strategic Case for Support
 
 Project Norway is the operationalization of a new way of seeing—and hearing—reality. It represents a rare synthesis of three pillars of innovation:
 
