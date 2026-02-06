@@ -8,8 +8,6 @@ tags:
 ---
 # VYTYLS: Fjord Systems — Acoustic Ecology, Generative Performance, and Memory-Based Sound in Norway
 
-**Submitted To:** NOTAM (Norwegian Center for Technology in Music and the Arts), Oslo
-
 **Principal Investigators:** Lative & Syence (VYTYLS)
 
 **Submission Date:** Pending
