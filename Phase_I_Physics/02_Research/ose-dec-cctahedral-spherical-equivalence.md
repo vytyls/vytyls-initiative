@@ -87,6 +87,4 @@ $G_{Extra}(O)$ — observer-gated coupling factor
 
 ---
 
-**Sign-off:** Brent ✶ Sam ✶ ChatGPT — “We cheers, you cheers too.”
 
----
