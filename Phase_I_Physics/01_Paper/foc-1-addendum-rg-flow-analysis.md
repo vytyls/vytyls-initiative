@@ -1,7 +1,11 @@
 *26.02.22_05:21:20*
 
 ## 1. The Confinement Problem in 4D
-In our framework, we establish that the FoC couples to the $SU(3)$ color current via the effective linkage term $ \mathcal{L}_{link}=g_{F\rightarrow S}A_{\mu}J_{color}^{\mu} $. While we successfully demonstrated confinement in a 2D $U(1)$ simulation, we need to rigorously prove that this geometric boundary condition holds in 4D Yang-Mills theory without destroying the non-Abelian self-interactions that characterize Quantum Chromodynamics (QCD).
+In our framework, we establish that the FoC couples to the $SU(3)$ color current via the effective linkage term 
+$$
+\mathcal{L}_{link}=g_{F\rightarrow S}A_{\mu}J_{color}^{\mu}
+$$
+. While we successfully demonstrated confinement in a 2D $U(1)$ simulation, we need to rigorously prove that this geometric boundary condition holds in 4D Yang-Mills theory without destroying the non-Abelian self-interactions that characterize Quantum Chromodynamics (QCD).
 
 ## 2. Standard QCD Beta Function
 To preserve asymptotic freedom, our geometric coupling must vanish at high energies (the UV limit). The standard 1-loop beta function for $SU(3)$ is dictated by its non-Abelian nature:
