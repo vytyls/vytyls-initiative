@@ -1,24 +1,16 @@
 *26.02.22_05:21:20*
 
 ## 1. The Confinement Problem in 4D
-In our framework, we establish that the FoC couples to the $SU(3)$ color current via the effective linkage term 
-$$
-\mathcal{L}_{link}=g_{F\rightarrow S}A_{\mu}J_{color}^{\mu}
-$$
-. While we successfully demonstrated confinement in a 2D $U(1)$ simulation, we need to rigorously prove that this geometric boundary condition holds in 4D Yang-Mills theory without destroying the non-Abelian self-interactions that characterize Quantum Chromodynamics (QCD).
+In our framework, we establish that the FoC couples to the $SU(3)$ color current via the effective linkage term $\mathcal{L}_{link}=g_{F\rightarrow S}A_{\mu}J_{color}^{\mu}$. While we successfully demonstrated confinement in a 2D $U(1)$ simulation, we need to rigorously prove that this geometric boundary condition holds in 4D Yang-Mills theory without destroying the non-Abelian self-interactions that characterize Quantum Chromodynamics (QCD).
 
 ## 2. Standard QCD Beta Function
 To preserve asymptotic freedom, our geometric coupling must vanish at high energies (the UV limit). The standard 1-loop beta function for $SU(3)$ is dictated by its non-Abelian nature:
-$$
-\beta_{QCD}(g_s)=\mu\frac{\partial g_s}{\partial\mu}=-\frac{b_0}{16\pi^2}g_s^3
-$$
+$$\beta_{QCD}(g_s)=\mu\frac{\partial g_s}{\partial\mu}=-\frac{b_0}{16\pi^2}g_s^3$$
 where $b_0=11-\frac{2}{3}n_f$. Because $b_0>0$, the strong coupling $g_s$ decreases at high energy scales $\mu$, ensuring asymptotic freedom.
 
 ## 3. Modifying the Flow via FoC Geometric Tension
 We propose that crossing the critical tension threshold $\mathcal{T}_{crit}$ activates the linkage coupling $g_{F\rightarrow S}$. I must define an effective beta function that incorporates this post-threshold background:
-$$
-\beta_{eff}(g_s)=\beta_{QCD}(g_s)-\gamma_{FoC}(\mu, \mathcal{T}_{global})g_{F\rightarrow S}^2g_s
-$$
+$$\beta_{eff}(g_s)=\beta_{QCD}(g_s)-\gamma_{FoC}(\mu, \mathcal{T}_{global})g_{F\rightarrow S}^2g_s$$
 Here, $\gamma_{FoC}$ represents the anomalous geometric scaling dimension induced by the stabilized internal geometry of the post-threshold octahedral lattice. 
 
 ## 4. Asymptotic Freedom vs. IR Confinement
