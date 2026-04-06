@@ -14,7 +14,7 @@
 **"If the universe is architecture, consciousness is traversal."** — [See *The Proem*](PROEM.md)
 
 ## Overview
-This repository contains the foundational papers and theoretical roadmap for the **Field of Consciousness (FoC)** framework. The FoC models consciousness not as a biological epiphenomenon, but as a fundamental Abelian gauge field ($U(1)$) unfolding on a discrete isotropic octahedral lattice. 
+This repository contains the foundational papers and theoretical roadmap for the **Field of Consciousness (FoC)** framework. The FoC models consciousness not as a biological epiphenomenon, but as a fundamental Abelian gauge field $U(1)$ unfolding on a discrete isotropic octahedral lattice. 
 
 Our research bridges the gap between quantum topology, General Relativity, and subjective phenomenology, demonstrating how mass, time, and gravity emerge as thermodynamic and geometric consequences of pre-phenomenal consciousness.
 
@@ -27,7 +27,7 @@ The initiative is organized into five distinct phases of inquiry:
 ### [Phase I: Physics (The Source Code)](Phase_I_Physics)
 ### **Paper I: The Lattice Gauge Model of Emergent Mass and Time** (Completed)
 Establishes the foundational physics of the FoC. 
-* Introduces the **Ontological Intention Tensor** ($T_{global}^{\mu\nu}$) as the geometric source of the field.
+* Introduces the **Ontological Intention Tensor** ($\Sigma_{global}^{\mu\nu}$) as the geometric source of the field.
 * Demonstrates how crossing the critical tension threshold ($\mathcal{T}_{crit}$) induces a phase transition, providing a geometric mechanism for $SU(3)$ confinement and the Yang-Mills mass gap.
 * Derives the $8\pi$ gravitational coupling constant of General Relativity via the **Octahedral-Spherical Equivalence (OSE)**.
 
