@@ -14,4 +14,4 @@ This directory contains the foundational physics of the **Field of Consciousness
 
 ## 🔑 Key Concepts
 * **The Geometric Tax:** The $8\pi$ coupling of gravity emerges from mapping the discrete octahedron to a continuous sphere.
-* **Intention as Stress:** "Intention" is modeled physically as geometric stress ($T^{\mu\nu}_{global}$), not mystical force.
+* **Intention as Stress:** "Intention" is modeled physically as geometric stress ($\Sigma_{global}^{\mu\nu}$), not mystical force.
