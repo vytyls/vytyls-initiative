@@ -2,7 +2,7 @@
 title: Synthesis Note - The Ontological Intention Tensor (Symmetry Fix)
 date: 01.04.26
 time: 23:42:31
-author: Lative, Gemini
+author: Lative
 source: Synthesis Session / Derivation
 dataview: true
 tags:
@@ -33,7 +33,6 @@ $$\mathcal{L}_{int} = \frac{1}{4} \lambda \Sigma_{global}^{\mu\nu} F_{\mu\nu}$$
 
 ---
 
-Here is the updated and mathematically rigorous derivation for Appendix A, incorporating $\Sigma_{global}^{\mu\nu}$ as an antisymmetric 2-form. You can drop this directly into your LaTeX environment. 
 
 ### Appendix A: Derivation of the FoC's Equations of Motion (Canonical Torsion Source)
 
